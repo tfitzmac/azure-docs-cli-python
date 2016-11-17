@@ -43,8 +43,10 @@
     "fileMetadata": {
        "ms.service":
         {
+          "acr/**.pycliyml": "container-registry",
           "ad/**.pycliyml": "active-directory",
           "appservice/**.pycliyml": "app-service",
+          "container/**.pycliyml": "container-service",
           "iot/**.pycliyml": "iot-hub",
           "keyvault/**.pycliyml":"key-vault",
           "network/**.pycliyml":"virtual-network",
@@ -55,6 +57,8 @@
           "vm/**.pycliyml": "virtual-machines",
           "vmss/**.pycliyml": "virtual-machine-scale-sets"    
          }
+
+
     },
     "template": [],
     "dest": "cli/azure"
