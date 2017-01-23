@@ -1,7 +1,7 @@
 ---
-title:  List IP Adresses for a Load Balancer using Azure CLI 2.0 (Preview)
-description: List all if the IP adresses for an load balancer in Azure using Azure CLI 2.0 (Preview)
-keywords: Azure CLI 2.0, Linux, Mac, Windows, OS X, load balancer, Azure, IP adress, virtual network
+title:  List IP Addresses for a Load Balancer using Azure CLI 2.0 (Preview)
+description: List all if the IP addresses for an load balancer in Azure using Azure CLI 2.0 (Preview)
+keywords: Azure CLI 2.0, Linux, Mac, Windows, OS X, load balancer, Azure, IP address, virtual network
 author: allclark
 manager: douge
 ms.date: 01/23/2017
