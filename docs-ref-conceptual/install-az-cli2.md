@@ -1,7 +1,7 @@
 ---
 title: Install the Azure CLI 2.0 (Preview)
 description: Reference docs for Azure CLI 2.0
-keywords: Azure CLI 2.0 (Preview), Azure CLI 2.0 Reference, Install Azure CLI 2.0, Azure Python CLI
+keywords: Azure CLI 2.0 (Preview), Azure CLI 2.0 Reference, Install Azure CLI 2.0, Azure Python CLI, Linux, Windows, OS X, Ubuntu, Debian, CentOS, RHEL, SUSE, CoreOS, Docker, Python, PIP
 author: allclark
 manager: douge
 ms.author: allclark

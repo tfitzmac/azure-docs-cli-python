@@ -1,7 +1,7 @@
 ---
 title: Get started with Azure 2.0 CLI Preview 
-description: Get started with Azure 2.0 CLI Preview on Linux, Mac, or Windows.
-keywords: Azure CLI 2.0, Linux, Mac, Windows, OS X, Ubuntu, Debian, CentOS, RHEL, SUSE, CoreOS, Docker, Windows, Python, PIP
+description: Get started with Azure 2.0 CLI (Preview) on Linux, Mac, or Windows.
+keywords: Azure CLI 2.0, Linux, Mac, Windows, OS X
 author: allclark
 manager: douge
 ms.date: 01/03/2017
