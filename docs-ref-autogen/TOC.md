@@ -3,8 +3,13 @@
 ## [Get started](get-started-with-az-cli2.md)
 # How to
 ## [Create a Linux VM](/azure/virtual-machines/virtual-machines-linux-quick-create-cli?toc=%2fcli%2fazure%2ftoc.json)
+### [Run a custom script](custom-script-on-create.md)
+## [Upload and attach image](upload-and-attach-image-to-vm.md)
 ## [Create a complete Linux environment](/azure/virtual-machines/virtual-machines-linux-create-cli-complete?toc=%2fcli%2fazure%2ftoc.json)
+## [Restart VMs](restart-vms.md)
+## [Find VMs by storage account](find-vms-by-storage-account.md)
 ## [Open ports and endpoints to a Linux VM](/azure/virtual-machines/virtual-machines-linux-nsg-quickstart?toc=%2fcli%2fazure%2ftoc.json)
+## [List IP addresses for a load balancer](list-load-balancer-ip-addresses.md)
 ## Deploy a web app
 ### [Basic (HTML)](/azure/app-service-web/app-service-web-get-started-html?toc=%2fcli%2fazure%2ftoc.json)
 ### [ASP.NET](/azure/app-service-web/app-service-web-get-started-dotnet?toc=%2fcli%2fazure%2ftoc.json)
