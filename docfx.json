@@ -48,7 +48,7 @@
       "ms.date": "12/06/2016",      
       "_op_documentIdPathDepotMapping": {
         "docs-ref-autogen/": {
-          "folder_relative_path_in_docset": "azure-cli-docs"
+          "folder_relative_path_in_docset": "."
         }
       }
     },
