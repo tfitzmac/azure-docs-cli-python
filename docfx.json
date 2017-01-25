@@ -45,7 +45,12 @@
       "manager": "douge",
       "ms.topic": "reference",
       "ms.devlang": "python",
-      "ms.date": "12/06/2016"
+      "ms.date": "12/06/2016",      
+      "_op_documentIdPathDepotMapping": {
+        "docs-ref-autogen/": {
+          "folder_relative_path_in_docset": "azure-cli-docs"
+        }
+      }
     },
     "fileMetadata": {
        "ms.service":
@@ -63,13 +68,7 @@
           "storage/**.pycliyml": "storage",
           "vm/**.pycliyml": "virtual-machines",
           "vmss/**.pycliyml": "virtual-machine-scale-sets"    
-         },
-         "_op_documentIdPathDepotMapping":
-         {
-          "docs-ref-autogen/": {
-          "folder_relative_path_in_docset": "azure-cli-docs"
          }
-      }
     },
     "template": [],
     "dest": "cli/azure"
