@@ -18,5 +18,6 @@
 ### [Python](/azure/app-service-web/app-service-web-get-started-python?toc=%2fcli%2fazure%2ftoc.json)
 ### [Node.js](/azure/app-service-web/app-service-web-get-started-nodejs?toc=%2fcli%2fazure%2ftoc.json)
 ## [Create an Azure Container Service cluster](/azure/container-service/container-service-create-acs-cluster-cli?toc=%2fcli%2fazure%2ftoc.json)
+## [Create a VM scale set](create-vm-scale-set.md)
 ## [Create an IoT hub](/azure/iot-hub/iot-hub-create-using-cli?toc=%2fcli%2fazure%2ftoc.json)
 ## [Use and manage storage](/azure/storage/storage-azure-cli?toc=%2fcli%2fazure%2ftoc.json)
