@@ -53,8 +53,8 @@
         {
           "cli/azure/acr/**": "container-registry",
           "acs/**": "container-service",
-          "docs-ref-autogen/ad/**": "active-directory",
-          "docs-ref-autogen/appservice/**": "app-service",
+          "docs-ref-autogen/ad/**.**": "active-directory",
+          "docs-ref-autogen/appservice/**.pycliyml": "app-service",
           "docs-ref-autogen/container/**": "container-service",
           "docs-ref-autogen/group/**": "azure-resource-manager",
           "docs-ref-autogen/iot/**": "iot-hub",
