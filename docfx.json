@@ -51,9 +51,9 @@
     "fileMetadata": {
        "ms.service":
         {
-          "cli/azure/acr/**": "container-registry",
-          "acs/**": "container-service",
-          "docs-ref-autogen/ad/**.**": "active-directory",
+          "cli/azure/acr/*.pycliyml": "container-registry",
+          "acs/*.pycliyml": "container-service",
+          "docs-ref-autogen/ad/**": "active-directory",
           "docs-ref-autogen/appservice/*.pycliyml": "app-service",
           "docs-ref-autogen/container/**": "container-service",
           "docs-ref-autogen/group/**": "azure-resource-manager",
@@ -71,7 +71,7 @@
          },
         "hideEdit":
         {
-          "**/*.pycliyml": "true"
+          "**/**/*.pycliyml": "true"
         }
     },
     "template": [],
