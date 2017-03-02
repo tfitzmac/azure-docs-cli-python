@@ -51,8 +51,8 @@
     "fileMetadata": {
        "ms.service":
         {
-          "docs-ref-autogen/acr/**": "container-registry",
-          "docs-ref-autogen/acs/**": "container-service",
+          "cli/azure/acr/**": "container-registry",
+          "acs/**": "container-service",
           "docs-ref-autogen/ad/**": "active-directory",
           "docs-ref-autogen/appservice/**": "app-service",
           "docs-ref-autogen/container/**": "container-service",
