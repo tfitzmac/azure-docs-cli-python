@@ -179,6 +179,8 @@
           "latest/docs-ref-autogen/dls.yml": "datalake-store",
           "latest/docs-ref-autogen/documentdb/**": "documentdb",
           "latest/docs-ref-autogen/documentdb.yml": "documentdb",
+          "latest/docs-ref-autogen/eventgrid/**": "event-grid",
+          "latest/docs-ref-autogen/eventgrid.yml": "event-grid",
           "latest/docs-ref-autogen/feature/**": "azure-resource-manager",
           "latest/docs-ref-autogen/feature.yml": "azure-resource-manager",
           "latest/docs-ref-autogen/functionapp/**": "functions",
